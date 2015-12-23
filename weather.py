@@ -19,7 +19,7 @@ cities = {
     "Nashville": '36.171800, -86.785002'
 }
 
-api_key = 'cfc6c7845bf3bab98a881bc32987677a'
+api_key = <api_key>
 
 con = lite.connect('weather.db')
 cur = con.cursor()
